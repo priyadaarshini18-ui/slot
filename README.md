@@ -27,7 +27,7 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-...
+```
 <<html>
     <head>
         <title>slot Timetable</title>
@@ -119,7 +119,7 @@ Execute the program using runserver command.
             </table>
         </body>
 </html>
-...
+```
 
 ## OUTPUT
 ![alt text](<Screenshot (14).png>)
